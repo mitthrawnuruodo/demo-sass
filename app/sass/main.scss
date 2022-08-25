@@ -1,0 +1,9 @@
+@use 'reset';
+@use 'colors';
+//@use 'mixins';
+
+body {
+  font-family: Helvetica, sans-serif;
+  font-size: 18px;
+  color: colors.$myBlue;
+}

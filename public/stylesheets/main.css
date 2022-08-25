@@ -1,0 +1,51 @@
+html,
+body,
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Helvetica, sans-serif;
+  font-size: 18px;
+  color: #4169E1;
+}
+
+/*
+
+.button-basic  {
+    border: none;
+    padding: 15px 30px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+  .button-report  {
+    @extend .button-basic;
+    background-color: red;
+  }
+
+  .button-submit  {
+    @extend .button-basic;
+    background-color: green;
+    color: white;
+  }
+*/
+/*
+.container {
+  display: flex;
+}
+
+article[role="main"] {
+  width: math.div(600px, 960px) * 100%;
+}
+
+aside[role="complementary"] {
+  width: math.div(300px, 960px) * 100%;
+  margin-left: auto;
+}
+*/
+
+/*# sourceMappingURL=main.css.map */
